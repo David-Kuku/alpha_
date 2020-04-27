@@ -1,0 +1,46 @@
+#navigation{
+    background-color: rgba(0,0,0,0.5);
+}
+#bbb{
+    border:1px solid black;
+    border-radius: 10px
+}
+#empty_section{
+    height: 300px;
+    background-image: url('image1.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#filledsection{
+    margin-top: 20px;
+
+}
+#img{
+    padding-left: 40px;
+}
+#row{
+    margin-top: 20px;
+}
+footer{
+  background-color: rgba(0,0,0,0.6);
+  text-align: center;
+
+}
+#icons{
+    font-size: 30px;
+
+}
+.nav-item{
+    margin-left: 20px
+}
+.card{
+    display: inline-block;
+    margin-top: 10px
+}
+#cardcomp{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
